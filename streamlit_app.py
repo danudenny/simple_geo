@@ -3,7 +3,7 @@ import geopandas as gpd
 import json
 from shapely.geometry import shape, mapping, Polygon, MultiPolygon
 from shapely import wkt
-import visvalingam_whyatt as vw
+import visvalingamwyatt as vw
 import tempfile
 import os
 from io import StringIO
