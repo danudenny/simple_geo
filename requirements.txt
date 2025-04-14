@@ -1,4 +1,4 @@
 streamlit
 geopandas
-visvalingamwhyatt
+visvalingamwyatt==0.2.0
 shapely
